@@ -1,158 +1,191 @@
 # Hi there, I'm Muhammed Rinshad 👋
-### Python/Django Developer | Backend Enthusiast | Django REST Framework Learner
+
+### Python & Django Developer | Backend Enthusiast | BCA Graduate
 
 <p align="left">
-  <a href="https://github.com/muhammedRinshad210">
-    <img src="https://img.shields.io/github/followers/muhammedRinshad210?label=GitHub&style=for-the-badge" alt="GitHub Followers" />
-  </a>
-  <img src="https://img.shields.io/badge/Location-Kerala%2C%20India-blue?style=for-the-badge" alt="Location" />
-  <img src="https://img.shields.io/badge/Focus-Python%20%7C%20Django%20%7C%20APIs-success?style=for-the-badge" alt="Focus" />
+  <img src="https://komarev.com/ghpvc/?username=muhammedRinshad210&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
 </p>
 
 ---
 
-## 👨‍💻 Professional Summary
+## 👨‍💻 About Me
 
-I am a Python/Django developer focused on building clean, scalable, and practical backend solutions.  
-I work with Django, REST APIs, MySQL, and modern frontend basics to create user-friendly web applications.  
-I enjoy turning ideas into working products and continuously improving my backend and full-stack skills.
+I'm a passionate **Python Full Stack Developer** from **Kerala, India**, focused on building scalable web applications using **Python**, **Django**, and modern web technologies.
 
----
+I enjoy creating backend systems, designing REST APIs, working with databases, and continuously improving my development skills through real-world projects.
 
-## 🙋 About Me
-
-- 💻 Python/Django developer from **Kerala, India**
-- 🛠️ Interested in **backend engineering**, **REST APIs**, and **database-driven web apps**
-- 🎓 BCA graduate with a strong foundation in programming and web development
-- 🚀 Built and deployed Django-based projects with authentication, CRUD, and session handling
-- 🌱 Passionate about learning better ways to build scalable applications
-- 🤝 Open to internships, collaborations, and real-world project opportunities
+* 🎓 Bachelor of Computer Applications (BCA)
+* 💻 Python/Django Developer
+* 🌱 Passionate about Backend Engineering
+* 🚀 Interested in Django REST Framework & Open Source
+* 📍 Kerala, India
 
 ---
 
-## 🚀 Skills / Tech Stack
+## 🚀 Professional Summary
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
-  <img src="https://img.shields.io/badge/DRF-ff1709?style=for-the-badge&logo=django&logoColor=white" alt="Django REST Framework" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
-</p>
+Python Full Stack Developer with experience building and deploying Django-based web applications using MySQL, REST APIs, Bootstrap, and Git. Strong understanding of backend development, authentication systems, CRUD operations, session management, and responsive web design.
 
 ---
 
-## 🧰 Tools and Technologies
+## 🛠️ Tech Stack
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/REST%20APIs-02569B?style=for-the-badge&logo=fastapi&logoColor=white" alt="REST APIs" />
-  <img src="https://img.shields.io/badge/CRUD-0A66C2?style=for-the-badge&logo=databricks&logoColor=white" alt="CRUD" />
-  <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black" alt="Render" />
-  <img src="https://img.shields.io/badge/Responsive%20Design-000000?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Responsive Design" />
-</p>
+### Languages
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
 
 ---
 
-## 🔥 Current Focus
+### Frameworks & Libraries
 
-- Building stronger **backend development** skills with Django
-- Practicing **REST API development**
-- Improving **database design** and **authentication workflows**
-- Creating more polished, production-ready projects
-- Strengthening my understanding of scalable web application architecture
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge\&logo=django\&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge\&logo=bootstrap\&logoColor=white)
+
+---
+
+### Databases
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge\&logo=mongodb\&logoColor=white)
+
+---
+
+### Tools & Technologies
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
+![Render](https://img.shields.io/badge/Render-000000?style=for-the-badge\&logo=render\&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-02569B?style=for-the-badge)
+![CRUD](https://img.shields.io/badge/CRUD_Operations-28a745?style=for-the-badge)
+![Responsive Design](https://img.shields.io/badge/Responsive_Design-blue?style=for-the-badge)
+
+---
+
+## 🎯 Current Focus
+
+* Building Django-based web applications
+* Developing RESTful APIs
+* Improving backend architecture skills
+* Working on real-world Python projects
+* Learning best practices for scalable applications
 
 ---
 
 ## 📚 Currently Learning
 
-- Django REST Framework
-- Advanced Django concepts
-- API design best practices
-- Authentication and session-based application flow
-- Better deployment and project structuring
+* Django REST Framework (DRF)
+* Advanced Django Concepts
+* API Development & Authentication
+* Database Optimization
+* Open Source Contribution
 
 ---
 
-## 📂 Projects
+## 📂 Featured Projects
 
-### 1. QR-Based Restaurant Ordering System
-**Tech Stack:** Python, Django, HTML, CSS, JavaScript  
-- Built a browser-based QR ordering platform for customer-friendly ordering
-- Developed Django backend with session-based order tracking and lifecycle management
-- Designed a mobile-first frontend and deployed the project on Render
+### 🍽️ QR-Based Restaurant Ordering System
 
-### 2. AI Resume Analyzer
-**Tech Stack:** Python, Django, PyPDF2, Bootstrap  
-- Created a web app to extract text from PDF resumes and identify key skills
-- Implemented file upload, processing, and skill matching in Django
-- Added authentication and session-based workflow with a responsive UI
+A browser-based restaurant ordering platform where customers can scan a QR code, browse menus, and place orders without installing an app.
 
-### 3. Portfolio Website
-**Tech Stack:** HTML, CSS, Bootstrap  
-- Designed and deployed a responsive personal portfolio website
-- Showcased projects, skills, and professional details in a clean layout
+**Tech Used:** Python, Django, HTML, CSS, JavaScript, MySQL
 
-### 4. MYG Website Home Page
-**Tech Stack:** HTML, CSS, Bootstrap  
-- Built a desktop-focused homepage with structured visual hierarchy
-- Styled the layout using Bootstrap and custom CSS
+✔ Session-Based Order Tracking
+✔ Admin Dashboard
+✔ Order Lifecycle Management
+✔ Mobile-Friendly Interface
+
+---
+
+### 📄 AI Resume Analyzer
+
+A Django-powered application that analyzes PDF resumes and extracts relevant skills.
+
+**Tech Used:** Python, Django, Bootstrap, PyPDF2
+
+✔ Resume Parsing
+✔ Skill Extraction
+✔ Authentication System
+✔ Responsive UI
+
+---
+
+### 🌐 Portfolio Website
+
+A personal portfolio website showcasing projects, skills, and achievements.
+
+**Tech Used:** HTML, CSS, Bootstrap
+
+---
+
+### 🏪 MYG Website Home Page
+
+A Bootstrap-based landing page clone focusing on layout design and frontend implementation.
+
+**Tech Used:** HTML, CSS, Bootstrap
 
 ---
 
 ## 📊 GitHub Stats
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=muhammedRinshad210&show_icons=true&theme=default&hide_border=true" alt="GitHub Stats" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=muhammedRinshad210&show_icons=true&theme=github_dark" />
 </p>
 
 ---
 
-## 🧠 Top Languages
+## 💻 Most Used Languages
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammedRinshad210&layout=compact&theme=default&hide_border=true" alt="Top Languages" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammedRinshad210&layout=compact&theme=github_dark" />
 </p>
 
 ---
 
 ## 🔥 GitHub Streak
 
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=muhammedRinshad210&theme=default&hide_border=true" alt="GitHub Streak" />
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=muhammedRinshad210&theme=github-dark" />
 </p>
 
 ---
 
-## 📫 Connect with Me
+## 🤝 Connect With Me
 
 <p align="left">
-  <a href="https://muhammedrinshad210.github.io/Portfolio">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefoxbrowser&logoColor=white" alt="Portfolio" />
-  </a>
-  <a href="mailto:m.rinshad210@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://linkedin.com/in/muhammedrinshadp">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://github.com/muhammedRinshad210">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
+
+<a href="mailto:m.rinshad210@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<a href="https://linkedin.com/in/muhammedrinshadp">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="https://github.com/muhammedRinshad210">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<a href="https://muhammedrinshad210.github.io/Portfolio">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox-browser&logoColor=white" />
+</a>
+
 </p>
 
 ---
 
-## 🌍 Visitor Counter
+## ⚡ Fun Fact
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=muhammedRinshad210&label=Profile%20views&color=0e75b6&style=flat" alt="Visitor Counter" />
-</p>
+> I enjoy building practical Django applications that solve real-world problems while continuously learning modern backend development practices.
 
 ---
 
-> "Consistency beats intensity when skill is built one project at a time."
+## 💬 Favorite Quote
+
+> "First, solve the problem. Then, write the code." – John Johnson
+
+---
+
+⭐ If you like my work, consider following my GitHub journey and checking out my repositories.
