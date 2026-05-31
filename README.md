@@ -1,220 +1,191 @@
-<div align="center">
-
 # Hi there, I'm Muhammed Rinshad 👋
 
-### Python Full Stack Developer | Django Enthusiast | Backend Engineer
+### Python & Django Developer | Backend Enthusiast | BCA Graduate
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=3572A5&center=true&vCenter=true&width=600&lines=Python+%26+Django+Developer;REST+API+Builder;Full+Stack+Web+Developer;Open+Source+Enthusiast)](https://git.io/typing-svg)
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white)](https://muhammedrinshad210.github.io/Portfolio)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/muhammedrinshadp)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/muhammedRinshad210)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:m.rinshad210@gmail.com)
-
-![Profile Views](https://komarev.com/ghpvc/?username=muhammedRinshad210&color=3572A5&style=flat-square&label=Profile+Views)
-
-</div>
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=muhammedRinshad210&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+</p>
 
 ---
 
-## 🧑‍💻 Professional Summary
+## 👨‍💻 About Me
 
-> Python Full Stack Developer and BCA graduate with hands-on experience building and deploying **Django-based web applications** with MySQL, REST APIs, and Bootstrap. Passionate about crafting scalable backend solutions and clean, responsive frontends. Currently seeking a **Python/Django developer opportunity** to contribute to real-world engineering teams.
+I'm a passionate **Python Full Stack Developer** from **Kerala, India**, focused on building scalable web applications using **Python**, **Django**, and modern web technologies.
 
----
+I enjoy creating backend systems, designing REST APIs, working with databases, and continuously improving my development skills through real-world projects.
 
-## 🙋‍♂️ About Me
-
-```python
-class MuhammedRinshad:
-    def __init__(self):
-        self.name       = "Muhammed Rinshad"
-        self.role       = "Python Full Stack Developer"
-        self.location   = "Kerala, India 🇮🇳"
-        self.education  = "BCA — University of Calicut (2025)"
-        self.training   = "Python Full Stack Dev — Sinet Institute (2025)"
-        self.languages  = ["English (Professional)", "Malayalam (Native)"]
-        self.interests  = [
-            "Backend Engineering",
-            "Django REST Framework",
-            "Open Source Contribution",
-            "UI/UX Design"
-        ]
-
-    def currently(self):
-        return {
-            "building"  : "Production-grade Django web applications",
-            "learning"  : "Django REST Framework & API development",
-            "goal"      : "Land a Python/Django developer role",
-        }
-```
+* 🎓 Bachelor of Computer Applications (BCA)
+* 💻 Python/Django Developer
+* 🌱 Passionate about Backend Engineering
+* 🚀 Interested in Django REST Framework & Open Source
+* 📍 Kerala, India
 
 ---
 
-## 🛠️ Tech Stack & Skills
+## 🚀 Professional Summary
 
-### 👨‍💻 Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-### 🧩 Frameworks & Libraries
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Django REST Framework](https://img.shields.io/badge/Django_REST-ff1709?style=for-the-badge&logo=django&logoColor=white)
-
-### 🗄️ Databases
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-
-### ⚙️ Tools & Platforms
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+Python Full Stack Developer with experience building and deploying Django-based web applications using MySQL, REST APIs, Bootstrap, and Git. Strong understanding of backend development, authentication systems, CRUD operations, session management, and responsive web design.
 
 ---
 
-## 🎯 Core Competencies
+## 🛠️ Tech Stack
 
-| Area | Skills |
-|------|--------|
-| **Backend** | Django MVT, ORM, Authentication, Forms, Session Handling |
-| **APIs** | REST APIs, CRUD Operations, JSON responses |
-| **Frontend** | Responsive Design, Bootstrap 5, Mobile-first Development |
-| **Database** | MySQL, MongoDB, Query Optimization |
-| **DevOps** | Git workflows, Render deployments, Production environments |
+### Languages
 
----
-
-## 🚀 Featured Projects
-
-### 🍽️ QR-Based Restaurant Ordering System
-> *Python · Django · HTML · CSS · JavaScript*
-
-A browser-based QR ordering platform where customers can scan, browse menus, and place orders — no app install required.
-
-- 🔧 Engineered Django backend with **session-based order tracking** and lifecycle management logic
-- 📊 Built a **real-time admin dashboard** for order management
-- 📱 Mobile-first frontend in HTML5, CSS3, and JavaScript
-- ☁️ Deployed to **Render** with fully validated production environment
-
-[![Live Demo](https://img.shields.io/badge/Live_Demo-4CAF50?style=for-the-badge&logo=render&logoColor=white)](#)
-[![GitHub](https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white)](#)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
 
 ---
 
-### 🤖 AI Resume Analyzer
-> *Python · Django · PyPDF2 · Bootstrap*
+### Frameworks & Libraries
 
-A smart resume analysis system that extracts text from PDF resumes and identifies key skills.
-
-- 📄 Implemented **PDF text extraction** and skill-matching logic
-- 🔐 Developed full **user authentication** (login/signup) with session-based workflow
-- 💻 Responsive UI with Bootstrap, deployed on Render
-
-[![Live Demo](https://img.shields.io/badge/Live_Demo-4CAF50?style=for-the-badge&logo=render&logoColor=white)](#)
-[![GitHub](https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white)](#)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge\&logo=django\&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge\&logo=bootstrap\&logoColor=white)
 
 ---
 
-### 🌐 Portfolio Website
-> *HTML · CSS · Bootstrap*
+### Databases
 
-A fully responsive personal portfolio showcasing projects, skills, and contact information.
-
-[![Live Demo](https://img.shields.io/badge/Live_Demo-4CAF50?style=for-the-badge&logo=render&logoColor=white)](https://muhammedrinshad210.github.io/Portfolio)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge\&logo=mongodb\&logoColor=white)
 
 ---
 
-### 🏢 MYG Website Home Page
-> *HTML · CSS · Bootstrap*
+### Tools & Technologies
 
-A clean desktop-focused landing page with proper visual hierarchy using Bootstrap and custom CSS.
-
-[![Live Demo](https://img.shields.io/badge/Live_Demo-4CAF50?style=for-the-badge&logo=render&logoColor=white)](#)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
+![Render](https://img.shields.io/badge/Render-000000?style=for-the-badge\&logo=render\&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-02569B?style=for-the-badge)
+![CRUD](https://img.shields.io/badge/CRUD_Operations-28a745?style=for-the-badge)
+![Responsive Design](https://img.shields.io/badge/Responsive_Design-blue?style=for-the-badge)
 
 ---
 
-## 📌 Currently Working On
+## 🎯 Current Focus
 
-- 🔨 Building scalable Django REST APIs with token-based authentication
-- 🗃️ Deepening knowledge of MySQL query optimization and database design patterns
-- 🧪 Writing cleaner, tested backend code with proper project structure
+* Building Django-based web applications
+* Developing RESTful APIs
+* Improving backend architecture skills
+* Working on real-world Python projects
+* Learning best practices for scalable applications
 
 ---
 
 ## 📚 Currently Learning
 
-- 🔗 **Django REST Framework** — API views, serializers, authentication
-- ☁️ **Cloud Deployment** — Advanced Render configurations and environment management
-- 🐳 **Docker** — Containerizing Django applications
-- 🔒 **Web Security** — CSRF, XSS prevention, secure session management
+* Django REST Framework (DRF)
+* Advanced Django Concepts
+* API Development & Authentication
+* Database Optimization
+* Open Source Contribution
+
+---
+
+## 📂 Featured Projects
+
+### 🍽️ QR-Based Restaurant Ordering System
+
+A browser-based restaurant ordering platform where customers can scan a QR code, browse menus, and place orders without installing an app.
+
+**Tech Used:** Python, Django, HTML, CSS, JavaScript, MySQL
+
+✔ Session-Based Order Tracking
+✔ Admin Dashboard
+✔ Order Lifecycle Management
+✔ Mobile-Friendly Interface
+
+---
+
+### 📄 AI Resume Analyzer
+
+A Django-powered application that analyzes PDF resumes and extracts relevant skills.
+
+**Tech Used:** Python, Django, Bootstrap, PyPDF2
+
+✔ Resume Parsing
+✔ Skill Extraction
+✔ Authentication System
+✔ Responsive UI
+
+---
+
+### 🌐 Portfolio Website
+
+A personal portfolio website showcasing projects, skills, and achievements.
+
+**Tech Used:** HTML, CSS, Bootstrap
+
+---
+
+### 🏪 MYG Website Home Page
+
+A Bootstrap-based landing page clone focusing on layout design and frontend implementation.
+
+**Tech Used:** HTML, CSS, Bootstrap
 
 ---
 
 ## 📊 GitHub Stats
 
-<div align="center">
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=muhammedRinshad210&show_icons=true&theme=github_dark" />
+</p>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=muhammedRinshad210&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
+---
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammedRinshad210&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" />
+## 💻 Most Used Languages
 
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammedRinshad210&layout=compact&theme=github_dark" />
+</p>
 
 ---
 
 ## 🔥 GitHub Streak
 
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=muhammedRinshad210&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
-
-</div>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=muhammedRinshad210&theme=github-dark" />
+</p>
 
 ---
 
-## 🏆 GitHub Trophies
+## 🤝 Connect With Me
 
-<div align="center">
+<p align="left">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=muhammedRinshad210&theme=tokyonight&no-frame=true&margin-w=10&row=1)](https://github.com/ryo-ma/github-profile-trophy)
+<a href="mailto:m.rinshad210@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
 
-</div>
+<a href="https://linkedin.com/in/muhammedrinshadp">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
 
----
+<a href="https://github.com/muhammedRinshad210">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
-## 🤝 Connect with Me
+<a href="https://muhammedrinshad210.github.io/Portfolio">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox-browser&logoColor=white" />
+</a>
 
-<div align="center">
-
-| Platform | Link |
-|----------|------|
-| 🌐 **Portfolio** | [muhammedrinshad210.github.io/Portfolio](https://muhammedrinshad210.github.io/Portfolio) |
-| 💼 **LinkedIn** | [linkedin.com/in/muhammedrinshadp](https://linkedin.com/in/muhammedrinshadp) |
-| 🐙 **GitHub** | [github.com/muhammedRinshad210](https://github.com/muhammedRinshad210) |
-| 📧 **Email** | [m.rinshad210@gmail.com](mailto:m.rinshad210@gmail.com) |
-| 📱 **Phone** | +91 7356742758 |
-| 📍 **Location** | Malappuram, Kerala, India |
-
-</div>
+</p>
 
 ---
 
-<div align="center">
+## ⚡ Fun Fact
 
-### 💬 A Quote I Live By
-
-*"First, solve the problem. Then, write the code."*
-— **John Johnson**
+> I enjoy building practical Django applications that solve real-world problems while continuously learning modern backend development practices.
 
 ---
 
-⭐ **If you like what you see, consider starring some repositories!**
+## 💬 Favorite Quote
 
-*Made with ❤️ from Kerala, India*
+> "First, solve the problem. Then, write the code." – John Johnson
 
-</div>
+---
+
+⭐ If you like my work, consider following my GitHub journey and checking out my repositories.
